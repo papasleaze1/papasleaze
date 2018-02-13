@@ -32,6 +32,65 @@ background-color: #f2f2f2;
 	color: #f2f2f2;
 }
 
+.home-intro {
+  padding: 3rem 0;
+}
+
+
+.home-intro-space {
+  margin-bottom: 1.5rem !important;
+}
+
+.home-intro-tall img {
+  
+}
+
+.hero-2{
+  margin-bottom: 2%;
+}
+
+.home-intro-luxury {
+  margin-bottom: 1.5rem !important;
+}
+
+
+.luxury-intro{
+  padding: 3rem 0;
+}
+
+.info{
+  padding: 1px 2;
+}
+
+
+h4{
+font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+p{
+font-family: 'Palanquin', sans-serif;  
+}
+
+figure.hero {
+ margin: 0;
+ position: relative;
+}
+figure.hero img {
+ width: 100%;
+}
+figure.hero figcaption {
+ position: absolute;
+ bottom: 45%;
+ width: 100%;
+
+
+}
+
+.hero{
+  color: #fff;
+  text-align: center;
+}
+
 footer {
   padding: 10px 0;
   color: #222222;
