@@ -131,6 +131,16 @@ figure.hero figcaption {
   text-align: center;
 }
 
+
+ul.sub{
+  list-style-type: none;
+  width: 20%;
+}
+
+ul.sub li {
+  display: inline-block;
+}
+
 footer {
   padding: 10px 0;
   color: #222222;
